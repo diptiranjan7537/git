@@ -1,3 +1,6 @@
 todays is 8th november.
 0000000000000000000000
 
+this is edited in ubuntu container
+vi command was not working, so installed vim "apt install vim"
+then vi command working 
